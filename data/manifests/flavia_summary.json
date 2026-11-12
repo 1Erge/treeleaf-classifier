@@ -1,0 +1,398 @@
+{
+  "dataset": "Flavia",
+  "dataset_root": "/home/erge/projects/treeleaf-classifier-stage1/data/raw/Leaves",
+  "expected_classes": 32,
+  "found_classes_with_images": 32,
+  "total_image_files": 1907,
+  "valid_labeled_images": 1907,
+  "invalid_or_unrecognized_files": 0,
+  "expected_approximate_images": 1907,
+  "class_distribution": [
+    {
+      "class_index": 0,
+      "source_label": 1,
+      "slug": "pubescent_bamboo",
+      "common_name": "pubescent bamboo",
+      "scientific_name": "Phyllostachys edulis (Carr.) Houz.",
+      "image_id_range": [
+        1001,
+        1059
+      ],
+      "images": 59
+    },
+    {
+      "class_index": 1,
+      "source_label": 2,
+      "slug": "chinese_horse_chestnut",
+      "common_name": "Chinese horse chestnut",
+      "scientific_name": "Aesculus chinensis",
+      "image_id_range": [
+        1060,
+        1122
+      ],
+      "images": 63
+    },
+    {
+      "class_index": 2,
+      "source_label": 3,
+      "slug": "anhui_barberry",
+      "common_name": "Anhui Barberry",
+      "scientific_name": "Berberis anhweiensis Ahrendt",
+      "image_id_range": [
+        1552,
+        1616
+      ],
+      "images": 65
+    },
+    {
+      "class_index": 3,
+      "source_label": 4,
+      "slug": "chinese_redbud",
+      "common_name": "Chinese redbud",
+      "scientific_name": "Cercis chinensis",
+      "image_id_range": [
+        1123,
+        1194
+      ],
+      "images": 72
+    },
+    {
+      "class_index": 4,
+      "source_label": 5,
+      "slug": "true_indigo",
+      "common_name": "true indigo",
+      "scientific_name": "Indigofera tinctoria L.",
+      "image_id_range": [
+        1195,
+        1267
+      ],
+      "images": 73
+    },
+    {
+      "class_index": 5,
+      "source_label": 6,
+      "slug": "japanese_maple",
+      "common_name": "Japanese maple",
+      "scientific_name": "Acer palmatum",
+      "image_id_range": [
+        1268,
+        1323
+      ],
+      "images": 56
+    },
+    {
+      "class_index": 6,
+      "source_label": 7,
+      "slug": "nanmu",
+      "common_name": "Nanmu",
+      "scientific_name": "Phoebe nanmu (Oliv.) Gamble",
+      "image_id_range": [
+        1324,
+        1385
+      ],
+      "images": 62
+    },
+    {
+      "class_index": 7,
+      "source_label": 8,
+      "slug": "castor_aralia",
+      "common_name": "castor aralia",
+      "scientific_name": "Kalopanax septemlobus (Thunb. ex A.Murr.) Koidz.",
+      "image_id_range": [
+        1386,
+        1437
+      ],
+      "images": 52
+    },
+    {
+      "class_index": 8,
+      "source_label": 9,
+      "slug": "chinese_cinnamon",
+      "common_name": "Chinese cinnamon",
+      "scientific_name": "Cinnamomum japonicum Sieb.",
+      "image_id_range": [
+        1497,
+        1551
+      ],
+      "images": 55
+    },
+    {
+      "class_index": 9,
+      "source_label": 10,
+      "slug": "goldenrain_tree",
+      "common_name": "goldenrain tree",
+      "scientific_name": "Koelreuteria paniculata Laxm.",
+      "image_id_range": [
+        1438,
+        1496
+      ],
+      "images": 59
+    },
+    {
+      "class_index": 10,
+      "source_label": 11,
+      "slug": "big_fruited_holly",
+      "common_name": "Big-fruited Holly",
+      "scientific_name": "Ilex macrocarpa Oliv.",
+      "image_id_range": [
+        2001,
+        2050
+      ],
+      "images": 50
+    },
+    {
+      "class_index": 11,
+      "source_label": 12,
+      "slug": "japanese_cheesewood",
+      "common_name": "Japanese cheesewood",
+      "scientific_name": "Pittosporum tobira (Thunb.) Ait. f.",
+      "image_id_range": [
+        2051,
+        2113
+      ],
+      "images": 63
+    },
+    {
+      "class_index": 12,
+      "source_label": 14,
+      "slug": "wintersweet",
+      "common_name": "wintersweet",
+      "scientific_name": "Chimonanthus praecox L.",
+      "image_id_range": [
+        2114,
+        2165
+      ],
+      "images": 52
+    },
+    {
+      "class_index": 13,
+      "source_label": 15,
+      "slug": "camphortree",
+      "common_name": "camphortree",
+      "scientific_name": "Cinnamomum camphora (L.) J. Presl",
+      "image_id_range": [
+        2166,
+        2230
+      ],
+      "images": 65
+    },
+    {
+      "class_index": 14,
+      "source_label": 16,
+      "slug": "japan_arrowwood",
+      "common_name": "Japan Arrowwood",
+      "scientific_name": "Viburnum awabuki K.Koch",
+      "image_id_range": [
+        2231,
+        2290
+      ],
+      "images": 60
+    },
+    {
+      "class_index": 15,
+      "source_label": 17,
+      "slug": "sweet_osmanthus",
+      "common_name": "sweet osmanthus",
+      "scientific_name": "Osmanthus fragrans Lour.",
+      "image_id_range": [
+        2291,
+        2346
+      ],
+      "images": 56
+    },
+    {
+      "class_index": 16,
+      "source_label": 18,
+      "slug": "deodar",
+      "common_name": "deodar",
+      "scientific_name": "Cedrus deodara (Roxb.) G. Don",
+      "image_id_range": [
+        2347,
+        2423
+      ],
+      "images": 77
+    },
+    {
+      "class_index": 17,
+      "source_label": 19,
+      "slug": "ginkgo",
+      "common_name": "ginkgo, maidenhair tree",
+      "scientific_name": "Ginkgo biloba L.",
+      "image_id_range": [
+        2424,
+        2485
+      ],
+      "images": 62
+    },
+    {
+      "class_index": 18,
+      "source_label": 20,
+      "slug": "crape_myrtle",
+      "common_name": "Crape myrtle",
+      "scientific_name": "Lagerstroemia indica (L.) Pers.",
+      "image_id_range": [
+        2486,
+        2546
+      ],
+      "images": 61
+    },
+    {
+      "class_index": 19,
+      "source_label": 21,
+      "slug": "oleander",
+      "common_name": "oleander",
+      "scientific_name": "Nerium oleander L.",
+      "image_id_range": [
+        2547,
+        2612
+      ],
+      "images": 66
+    },
+    {
+      "class_index": 20,
+      "source_label": 22,
+      "slug": "yew_plum_pine",
+      "common_name": "yew plum pine",
+      "scientific_name": "Podocarpus macrophyllus (Thunb.) Sweet",
+      "image_id_range": [
+        2616,
+        2675
+      ],
+      "images": 60
+    },
+    {
+      "class_index": 21,
+      "source_label": 23,
+      "slug": "japanese_flowering_cherry",
+      "common_name": "Japanese Flowering Cherry",
+      "scientific_name": "Prunus serrulata Lindl. var. lannesiana auct.",
+      "image_id_range": [
+        3001,
+        3055
+      ],
+      "images": 55
+    },
+    {
+      "class_index": 22,
+      "source_label": 24,
+      "slug": "glossy_privet",
+      "common_name": "Glossy Privet",
+      "scientific_name": "Ligustrum lucidum Ait. f.",
+      "image_id_range": [
+        3056,
+        3110
+      ],
+      "images": 55
+    },
+    {
+      "class_index": 23,
+      "source_label": 25,
+      "slug": "chinese_toon",
+      "common_name": "Chinese Toon",
+      "scientific_name": "Toona sinensis M. Roem.",
+      "image_id_range": [
+        3111,
+        3175
+      ],
+      "images": 65
+    },
+    {
+      "class_index": 24,
+      "source_label": 26,
+      "slug": "peach",
+      "common_name": "peach",
+      "scientific_name": "Prunus persica (L.) Batsch",
+      "image_id_range": [
+        3176,
+        3229
+      ],
+      "images": 54
+    },
+    {
+      "class_index": 25,
+      "source_label": 27,
+      "slug": "ford_woodlotus",
+      "common_name": "Ford Woodlotus",
+      "scientific_name": "Manglietia fordiana Oliv.",
+      "image_id_range": [
+        3230,
+        3281
+      ],
+      "images": 52
+    },
+    {
+      "class_index": 26,
+      "source_label": 28,
+      "slug": "trident_maple",
+      "common_name": "trident maple",
+      "scientific_name": "Acer buergerianum Miq.",
+      "image_id_range": [
+        3282,
+        3334
+      ],
+      "images": 53
+    },
+    {
+      "class_index": 27,
+      "source_label": 29,
+      "slug": "beales_barberry",
+      "common_name": "Beale's barberry",
+      "scientific_name": "Mahonia bealei (Fortune) Carr.",
+      "image_id_range": [
+        3335,
+        3389
+      ],
+      "images": 55
+    },
+    {
+      "class_index": 28,
+      "source_label": 30,
+      "slug": "southern_magnolia",
+      "common_name": "southern magnolia",
+      "scientific_name": "Magnolia grandiflora L.",
+      "image_id_range": [
+        3390,
+        3446
+      ],
+      "images": 57
+    },
+    {
+      "class_index": 29,
+      "source_label": 31,
+      "slug": "canadian_poplar",
+      "common_name": "Canadian poplar",
+      "scientific_name": "Populus ×canadensis Moench",
+      "image_id_range": [
+        3447,
+        3510
+      ],
+      "images": 64
+    },
+    {
+      "class_index": 30,
+      "source_label": 32,
+      "slug": "chinese_tulip_tree",
+      "common_name": "Chinese tulip tree",
+      "scientific_name": "Liriodendron chinense (Hemsl.) Sarg.",
+      "image_id_range": [
+        3511,
+        3563
+      ],
+      "images": 53
+    },
+    {
+      "class_index": 31,
+      "source_label": 33,
+      "slug": "tangerine",
+      "common_name": "tangerine",
+      "scientific_name": "Citrus reticulata Blanco",
+      "image_id_range": [
+        3566,
+        3621
+      ],
+      "images": 56
+    }
+  ],
+  "invalid_files": [],
+  "manifest": "data/manifests/flavia_manifest.csv"
+}

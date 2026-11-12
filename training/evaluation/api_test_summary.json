@@ -1,0 +1,16 @@
+{
+    "total_images": 282,
+    "correct": 281,
+    "incorrect": 1,
+    "accuracy": 0.9964539007092199,
+    "macro_precision": 0.9973958333333333,
+    "macro_recall": 0.99609375,
+    "macro_f1": 0.9965579710144927,
+    "weighted_precision": 0.9967494089834514,
+    "weighted_recall": 0.9964539007092199,
+    "weighted_f1": 0.9964127865145441,
+    "average_confidence": 0.9861950335350442,
+    "average_correct_confidence": 0.9873095617175527,
+    "average_incorrect_confidence": 0.6730126142501831,
+    "batch_size": 20
+}

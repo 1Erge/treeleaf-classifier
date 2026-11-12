@@ -1,0 +1,38 @@
+export const treeNames: Record<string, string> = {
+  anhui_barberry: 'Барбарис аньхойский',
+  beales_barberry: 'Магония Била',
+  big_fruited_holly: 'Падуб крупноплодный',
+  camphortree: 'Камфорное дерево',
+  canadian_poplar: 'Тополь канадский',
+  castor_aralia: 'Аралия высокая',
+  chinese_cinnamon: 'Корица китайская',
+  chinese_horse_chestnut: 'Конский каштан китайский',
+  chinese_redbud: 'Багрянник китайский',
+  chinese_toon: 'Туна китайская',
+  chinese_tulip_tree: 'Лириодендрон китайский',
+  crape_myrtle: 'Лагерстремия индийская',
+  deodar: 'Кедр гималайский',
+  ford_woodlotus: 'Магнолия Форда',
+  ginkgo: 'Гинкго двулопастный',
+  glossy_privet: 'Бирючина блестящая',
+  goldenrain_tree: 'Коэльрейтерия метельчатая',
+  japan_arrowwood: 'Калина японская',
+  japanese_cheesewood: 'Питтоспорум тобира',
+  japanese_flowering_cherry: 'Вишня мелкопильчатая',
+  japanese_maple: 'Клён японский',
+  nanmu: 'Наньму',
+  oleander: 'Олеандр',
+  peach: 'Персик',
+  pubescent_bamboo: 'Бамбук опушённый',
+  southern_magnolia: 'Магнолия крупноцветковая',
+  sweet_osmanthus: 'Османтус душистый',
+  tangerine: 'Мандарин',
+  trident_maple: 'Клён трёхраздельный',
+  true_indigo: 'Индигофера красильная',
+  wintersweet: 'Химонант ранний',
+  yew_plum_pine: 'Подокарп крупнолистный',
+}
+
+export function getTreeName(className: string): string {
+  return treeNames[className] ?? className
+}

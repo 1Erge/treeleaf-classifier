@@ -1,0 +1,36 @@
+﻿,precision,recall,f1-score,support
+anhui_barberry,1.0,1.0,1.0,10.0
+beales_barberry,1.0,1.0,1.0,8.0
+big_fruited_holly,1.0,1.0,1.0,7.0
+camphortree,1.0,1.0,1.0,10.0
+canadian_poplar,1.0,1.0,1.0,9.0
+castor_aralia,1.0,1.0,1.0,8.0
+chinese_cinnamon,1.0,1.0,1.0,8.0
+chinese_horse_chestnut,1.0,1.0,1.0,9.0
+chinese_redbud,0.9166666666666666,1.0,0.9565217391304348,11.0
+chinese_toon,1.0,1.0,1.0,10.0
+chinese_tulip_tree,1.0,1.0,1.0,8.0
+crape_myrtle,1.0,1.0,1.0,9.0
+deodar,1.0,1.0,1.0,11.0
+ford_woodlotus,1.0,1.0,1.0,8.0
+ginkgo,1.0,1.0,1.0,9.0
+glossy_privet,1.0,1.0,1.0,8.0
+goldenrain_tree,1.0,1.0,1.0,9.0
+japan_arrowwood,1.0,1.0,1.0,9.0
+japanese_cheesewood,1.0,1.0,1.0,9.0
+japanese_flowering_cherry,1.0,1.0,1.0,8.0
+japanese_maple,1.0,1.0,1.0,8.0
+nanmu,1.0,1.0,1.0,9.0
+oleander,1.0,1.0,1.0,10.0
+peach,1.0,1.0,1.0,8.0
+pubescent_bamboo,1.0,1.0,1.0,9.0
+southern_magnolia,1.0,1.0,1.0,8.0
+sweet_osmanthus,1.0,1.0,1.0,8.0
+tangerine,1.0,1.0,1.0,8.0
+trident_maple,1.0,1.0,1.0,8.0
+true_indigo,1.0,1.0,1.0,11.0
+wintersweet,1.0,0.875,0.9333333333333333,8.0
+yew_plum_pine,1.0,1.0,1.0,9.0
+accuracy,0.9964539007092199,0.9964539007092199,0.9964539007092199,0.9964539007092199
+macro avg,0.9973958333333333,0.99609375,0.9965579710144927,282.0
+weighted avg,0.9967494089834514,0.9964539007092199,0.9964127865145441,282.0
